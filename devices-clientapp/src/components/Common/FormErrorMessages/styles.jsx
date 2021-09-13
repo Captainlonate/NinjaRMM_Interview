@@ -11,6 +11,6 @@ export const FormErrorMessagesWrapper = styled.ul`
 export const ErrorMessage = styled.li`
   color: red;
   font-style: italic;
-  padding: 0.75rem 0;
+  padding: 0.5rem 0;
   margin: 0;
 `
