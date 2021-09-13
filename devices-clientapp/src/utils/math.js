@@ -1,0 +1,1 @@
+export const calculateEvenPercent = (num) => (num < 2) ? '100%' : `${100 / num}%`
