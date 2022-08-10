@@ -1,4 +1,4 @@
-# NinjaRMM Interview Project
+# This is NOT NinjaRMM's Interview Project
 
 ## Screenshots
 
